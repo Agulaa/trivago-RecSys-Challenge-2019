@@ -1,0 +1,5 @@
+# Implementacji bazowego, skrajnie uproszczonego algorytmu rekomendacyjnego (baseline_algorithm)
+# Aplikacji służącej weryfikacji wyników działania algorytmu rekomendacyjnego przeznaczonych do oceny (verify_submission)
+# Aplikacji służącej ocenie wyników działania algorytmu rekomendacyjnego (score_submission)
+
+#1. baseline.py
