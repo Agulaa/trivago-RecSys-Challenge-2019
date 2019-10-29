@@ -1,6 +1,7 @@
 from challange_function.src.score_submission import score_subm as ss
 from challange_function.src.verify_submission import verify_subm as vs
 from challange_function.src.baseline_algorithm import rec_popular as rp
+import pandas as pd
 
 subm_csv = '../data/submission_popular.csv'
 gt_csv = '../data/groundTruth.csv'
@@ -19,6 +20,8 @@ def score():
 
 if __name__ == '__main__':
 
-   # baseline()
-    #verify()
+    baseline()
+    verify()
     score()
+
+
