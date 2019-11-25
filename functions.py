@@ -19,7 +19,6 @@ def score():
     ss.main(gt_csv, subm_csv)
 
 if __name__ == '__main__':
-
     baseline()
     verify()
     score()
