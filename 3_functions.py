@@ -1,7 +1,7 @@
 from score_submission import score_subm as ss
 from verify_submission import verify_subm as vs
 from baseline_algorithm import rec_popular as rp
-import pandas as pd
+
 
 subm_csv = '../data/submission_popular.csv'
 gt_csv = '../data/groundTruth.csv'
